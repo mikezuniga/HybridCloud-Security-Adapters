@@ -1,5 +1,5 @@
 # HybridCloud-Security-Tools
-This repo is going to provide interfaces that adapt certain high-profile open source security tools on private or public cloud into a hybrid cloud environment.   
+This repo is going to provide interfaces that adapting certain high-profile open source security tools on private or public cloud into a hybrid cloud environment.   
 
 Things on the roadmap:  
 1. Container Image Scanning  
