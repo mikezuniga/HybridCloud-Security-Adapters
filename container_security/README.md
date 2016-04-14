@@ -1,5 +1,6 @@
 # Docker Image Scanning Adapter
-This tool is for adapting docker image scanning process (based on clair).  
+This tool is for adapting (clair-based) docker image scanning process.  
+
 usage: python clean_docker_scan.py MINIMUM_SEVERITY SCANNER_URL STORAGE_URL  
 MINIMUM_SEVERITY: Vulnerabilities with minimum severity or above need to be included in the report  
 SCANNER_URL: Where your scanner (clair) is located (whole url is needed, including port)  
