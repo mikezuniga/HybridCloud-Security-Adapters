@@ -12,3 +12,5 @@ Use the following command for this purpose:
 Usage2: python push_report.py ImageID MINIMUM_SEVERITY
 MINIMUM_SEVERITY: Vulnerabilities with minimum severity or above need to be included in the report  
 ImageID: IDs of target images whoes report needs to be pushed into security monkey. 
+
+PS: Direct internet access is required due to the settings of the docker scanner (clair) itself. This requirement cannot be bypassed through HTTP_PROXY as internet access via other protocols (e.g. ssh) is also required.  
