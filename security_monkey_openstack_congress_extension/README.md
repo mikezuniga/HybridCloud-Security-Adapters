@@ -1,5 +1,8 @@
 This is an extension of security monkey for monitoring on top of openstack security monkey monitoring (through openstack congress).
 
+usage:
+python minimum_datapush.py CONF_FILE
+
 Prerequist:
 1. security monkey installed.
 2. openstack congress installed.
