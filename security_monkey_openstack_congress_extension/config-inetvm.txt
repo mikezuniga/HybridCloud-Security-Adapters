@@ -1,0 +1,6 @@
+region:dvt2
+host:172.16.152.171
+policy:external_ac_ingress_free_vm
+risk_score:7
+issue:'VMs with internet access'
+note:'Each entry 'Violated VM ID', 'Violated Port ID''
